@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleScraper": {
+      "commandName": "Project",
+      "commandLineArgs": "conqueredbycolombia"
+    }
+  }
+}
